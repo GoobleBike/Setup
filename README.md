@@ -1,1 +1,2 @@
 # Setup
+LICENSE: CC BY-NC-SA
